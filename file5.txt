@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 This is an online file. We need to take a local backup 
+conflict checked
+>>>>>>> ec25c3e5fae16f9c044d79c8f1007a4cc625423e
